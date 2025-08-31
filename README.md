@@ -1,7 +1,7 @@
 ### Welcome to My GitHub Page 👋  
 ## Bem-vindo(a) ao meu perfil ⚡  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=700&lines=Hey+there!+🙌;I'm+Marcelo+Pinotti+💻;Always+learning+new+things+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=700&lines=Bem+vindo!+🙌;Meu+nome+é+Marcelo+Pinotti+💻;Sempre+buscando+aprender+mais+🚀)](https://git.io/typing-svg)
 
 > *"Amante da Tecnologia desde pequeno"* ✨  
 
