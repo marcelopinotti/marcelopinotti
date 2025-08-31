@@ -51,7 +51,7 @@
 <div>
   <a href="https://linkedin.com/in/marcelo-pinotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:marcelopinotti@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%23007ACC?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/marcelo.pinotti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ---
