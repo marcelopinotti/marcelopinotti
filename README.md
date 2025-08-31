@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=700&lines=Hey+there!+🙌;I'm+Marcelo+Pinotti+💻;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 
-> *"Uma frase de impacto ou citação legal que você gosta pode ir aqui."* ✨  
+> *"Amante da Tecnologia desde pequeno"* ✨  
 
 ---
 
@@ -47,7 +47,7 @@
 ### 📫 How to reach me / Como me encontrar:
 <div>
   <a href="https://linkedin.com/in/marcelo-pinotti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:marcelopinotti@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:marcelopinotti@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%23007ACC?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
