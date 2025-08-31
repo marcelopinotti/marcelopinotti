@@ -9,7 +9,7 @@
 
 ### 🌱 About Me / Sobre mim
 - 🔭 Atualmente trabalhando em: **Projetos com Java e Spring Boot**  
-- 🌱 Estudando: **Java,Spring Boot,Python**  
+- 🌱 Estudando: **Java,Spring Boot,Python,JavaScript,NodeJS,NextJS,Docker,MySQL**  
 - ⚡ Curiosidade: **Apaixonado por tecnologia, viagens e aprendizado contínuo**  
 
 ---
@@ -54,4 +54,4 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=marcelo-pinotti&color=blueviolet&style=for-the-badge&label=VISITORS)
-# marcelopinotti
+
