@@ -34,12 +34,13 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor-FF6F00?style=flat&logo=cursor&logoColor=white)
+![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 <div>
-  <a href="https://github.com/marcelo-pinotti">
+  <a href="https://github.com/marcelopinotti">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelopinotti&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopinotti&layout=compact&langs_count=6&theme=holi"/>
 </div>
