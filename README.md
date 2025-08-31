@@ -40,8 +40,8 @@
 ### 📊 GitHub Stats
 <div>
   <a href="https://github.com/marcelo-pinotti">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-pinotti&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-pinotti&layout=compact&langs_count=6&theme=holi"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelopinotti&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopinotti&layout=compact&langs_count=6&theme=holi"/>
 </div>
 
 ---
