@@ -3,15 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1&color=00C2FF&background=FFFFFF00&center=true&vCenter=true&repeat=true&width=700&lines=Bem-vindo!+🙌;Meu+nome+%C3%A9+Marcelo+Pinotti!+💻;Sempre+procurando+aprender+mais!+🚀)](https://git.io/typing-svg)
 
-> *"Amante da Tecnologia desde pequeno"* ✨  
-
 ---
 
 ### 🌱 About Me / Sobre mim
 - 🔭 Atualmente trabalhando em: **Projetos com Java e Spring Boot**  
-- 🌱 Estudando: **Java,Spring Boot,Python,JavaScript,NodeJS,NextJS,TypeScript,Docker,MySQL**  
-- ⚡ Curiosidade: **Apaixonado por tecnologia, viagens e aprendizado contínuo**  
-
+- 🌱 Estudando: **Java,Spring Boot,Docker,SQL,Python**  
 ---
 
 ### 🚀 Skills / Tecnologias
