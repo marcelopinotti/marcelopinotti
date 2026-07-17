@@ -1,6 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Marcelo%20Pinotti&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=55" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Marcelo%20Pinotti&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Bem-vindo(a)+ao+meu+perfil!+%F0%9F%91%8B;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -35,13 +33,6 @@ Developer me = Developer.builder()
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcelopinotti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopinotti&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages"/>
 </div>
 
 ## 📫 Contato
