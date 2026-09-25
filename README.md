@@ -8,6 +8,7 @@
 
 ```java
 Developer me = Developer.builder()
+    .role("Engenheiro de Software Jr. @ Paparazzi Fotografia")
     .focus("Java & Spring Boot")
     .learning("Docker", "GoLang", "AWS")
     .motto("Sempre procurando aprender mais 🚀")
